@@ -1,4 +1,4 @@
-# Awesome Software Architecture Books
+    # Awesome Software Architecture Books
 
 A curated list of books on, or relevant to, Software Architecture.
 
@@ -55,26 +55,26 @@ any, [I'd love to hear](https://github.com/mhadidg/software-architecture-books/i
 
 ### System Architecture
 
-| Title                                                                                                       | Rating                                               | Raters | Published |
-| ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------ | --------- |
-| Clean Architecture                                                                                          | [4.23](https://www.goodreads.com/book/show/18043011) | 3662   | 2017      |
-| Patterns of Enterprise Application Architecture                                                             | [4.11](https://www.goodreads.com/book/show/70156)    | 3501   | 2002      |
-| Building Evolutionary Architectures: Support Constant Change                                                | [3.74](https://www.goodreads.com/book/show/35755822) | 705    | 2017      |
-| Fundamentals of Software Architecture: An Engineering Approach                                              | [4.40](https://www.goodreads.com/book/show/44144493) | 364    | 2020      |
-| Software Architecture in Practice, 4th Edition                                                              | [3.82](https://www.goodreads.com/book/show/70143)    | 608    | 2021      |
-| Architecting for Scale: High Availability for Your Growing Applications                                     | [3.56](https://www.goodreads.com/book/show/27560189) | 164    | 2016      |
-| Software Architecture for Developers: Volume 1 - Technical leadership and the balance with agility          | [3.87](https://www.goodreads.com/book/show/33221518) | 332    | 2016      |
-| Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives                  | [4.10](https://www.goodreads.com/book/show/223932)   | 205    | 2005      |
-| Design It!: From Programmer to Software Architect                                                           | [3.68](https://www.goodreads.com/book/show/31670678) | 168    | 2017      |
-| The Software Architect Elevator: Transforming Enterprises with Technology and Business Architecture         | [4.48](https://www.goodreads.com/book/show/49828197) | 101    | 2020      |
-| Righting Software                                                                                           | [3.79](https://www.goodreads.com/book/show/51109185) | 76     | 2019      |
-| Analysis Patterns: Reusable Object Models                                                                   | [3.80](https://www.goodreads.com/book/show/85002)    | 246    | 1996      |
-| 12 Essential Skills for Software Architects                                                                 | [3.70](https://www.goodreads.com/book/show/13039744) | 118    | 2011      |
-| Software Architecture for Developers: Volume 2 - Visualise, document and explore your software architecture | [3.78](https://www.goodreads.com/book/show/33221619) | 108    | 2016      |
-| Documenting Software Architectures: Views and Beyond, 2nd Edition                                           | [3.68](https://www.goodreads.com/book/show/223911)   | 174    | 2010      |
-| Software Architecture: Foundations, Theory, and Practice                                                    | [3.75](https://www.goodreads.com/book/show/6329721)  | 65     | 2008      |
-| SOA: Principles of Service Design                                                                           | [3.72](https://www.goodreads.com/book/show/1265221)  | 130    | 2007      |
-| Service-Oriented Architecture: Concepts, Technology, and Design                                             | [3.65](https://www.goodreads.com/book/show/70147)    | 170    | 2005      |
+| Title                                                                                                       | ISBN | Rating                                               | Raters | Published |
+| ----------------------------------------------------------------------------------------------------------- | --------------| ---------------------------------------------------- | ------ | --------- |
+| Clean Architecture                                                                                          | 9780134494166 | [4.23](https://www.goodreads.com/book/show/18043011) | 3662   | 2017      |
+| Patterns of Enterprise Application Architecture                                                             | 9780134494166 | [4.11](https://www.goodreads.com/book/show/70156)    | 3501   | 2002      |
+| Building Evolutionary Architectures: Support Constant Change                                                | 9780134494166 | [3.74](https://www.goodreads.com/book/show/35755822) | 705    | 2017      |
+| Fundamentals of Software Architecture: An Engineering Approach                                              | 9780134494166 | [4.40](https://www.goodreads.com/book/show/44144493) | 364    | 2020      |
+| Software Architecture in Practice, 4th Edition                                                              | 9780134494166 | [3.82](https://www.goodreads.com/book/show/70143)    | 608    | 2021      |
+| Architecting for Scale: High Availability for Your Growing Applications                                     | 9780134494166 | [3.56](https://www.goodreads.com/book/show/27560189) | 164    | 2016      |
+| Software Architecture for Developers: Volume 1 - Technical leadership and the balance with agility          | 9780134494166 | [3.87](https://www.goodreads.com/book/show/33221518) | 332    | 2016      |
+| Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives                  | 9780134494166 | [4.10](https://www.goodreads.com/book/show/223932)   | 205    | 2005      |
+| Design It!: From Programmer to Software Architect                                                           | 9780134494166 | [3.68](https://www.goodreads.com/book/show/31670678) | 168    | 2017      |
+| The Software Architect Elevator: Transforming Enterprises with Technology and Business Architecture         | 9780134494166 | [4.48](https://www.goodreads.com/book/show/49828197) | 101    | 2020      |
+| Righting Software                                                                                           | 9780134494166 | [3.79](https://www.goodreads.com/book/show/51109185) | 76     | 2019      |
+| Analysis Patterns: Reusable Object Models                                                                   | 9780134494166 | [3.80](https://www.goodreads.com/book/show/85002)    | 246    | 1996      |
+| 12 Essential Skills for Software Architects                                                                 | 9780134494166 | [3.70](https://www.goodreads.com/book/show/13039744) | 118    | 2011      |
+| Software Architecture for Developers: Volume 2 - Visualise, document and explore your software architecture | 9780134494166 | [3.78](https://www.goodreads.com/book/show/33221619) | 108    | 2016      |
+| Documenting Software Architectures: Views and Beyond, 2nd Edition                                           | 9780134494166 | [3.68](https://www.goodreads.com/book/show/223911)   | 174    | 2010      |
+| Software Architecture: Foundations, Theory, and Practice                                                    | 9780134494166 | [3.75](https://www.goodreads.com/book/show/6329721)  | 65     | 2008      |
+| SOA: Principles of Service Design                                                                           | 9780134494166 | [3.72](https://www.goodreads.com/book/show/1265221)  | 130    | 2007      |
+| Service-Oriented Architecture: Concepts, Technology, and Design                                             | 9780134494166 | [3.65](https://www.goodreads.com/book/show/70147)    | 170    | 2005      |
 
 ### Design Patterns
 
