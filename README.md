@@ -1,6 +1,6 @@
-    # Awesome Software Architecture Books
+# Software Architecture Books
 
-A curated list of books on, or relevant to, Software Architecture.
+A comprehensive list of books on Software Architecture.
 
 People in the software industry have long argued about a definition of architecture. Ralph Johnson famously defined
 software architecture as "the important stuff (whatever that is)." I, subjectively, followed his definition while
@@ -8,7 +8,9 @@ deciding whether or not to include a specific book.
 
 ## Table of Contents
 
+- [What is this? (important)](#what-is-this)
 - [How did I make this?](#how-did-i-make-this)
+- [What should I read?](#what-should-i-read)
 - [Inclusion criteria](#inclusion-criteria)
 - [Sorting criteria](#sorting-criteria)
 - [Books](#books)
@@ -26,12 +28,25 @@ deciding whether or not to include a specific book.
     - [General](#general)
 - [Find me at Goodreads](https://www.goodreads.com/user/show/63237197)
 
+## What is this?
+
+This is NOT recommendations. When I made this, I intended for a comprehensive list excluding low-profile books—see
+inclusion criteria below. There was a simple reason behind that: I'm not a subject-matter expert on all these topics.
+More importantly, I don't know your experience level nor your preferences. Some people prefer theoretical over practical
+books (I do). Others prefer verbose over concise books, or art-based over engineering-based books. Or and or and or.
+
 ## How did I make this?
 
 I thoroughly reviewed all books
-[tagged with software-architecture](https://www.goodreads.com/shelf/show/software-architecture) on Goodreads and picked
-the best objectively—see the selection criteria below. I don't think, by any means, this list is comprehensive. Yet, I'm
+[tagged with software-architecture](https://www.goodreads.com/shelf/show/software-architecture) on Goodreads and applied
+a simple algorithmic rules—see the inclusion criteria below. I don't think the list is perfectly comprehensive. Yet, I'm
 planning to update it regularly to make it as comprehensive as possible.
+
+## What should I read?
+
+Don't be overwhelmed by the number of books on each subject. Practically speaking, you are supposed to read a few books
+on each subject that you are interested in. Deciding what to read is your business. Alternatively, you may go with the
+Goodreads community preferences and start from the top of each list if you don't have the time to read reviews.
 
 ## Inclusion criteria
 
@@ -46,9 +61,9 @@ planning to update it regularly to make it as comprehensive as possible.
 
 ## Sorting criteria
 
-The books are sorted solely based on the number of written reviews. There are, however, other important factors worth
-considering. For example, the average rating, the number of ratings, and the publishing date. Yet, I don't have an idea
-to put all these factors in a reasonable mathematical formula. If you have
+The books are sorted solely based on the number of **written** reviews. There are, however, other important factors
+worth considering. For example, the average rating, the number of ratings, and the publishing date. Yet, I don't have an
+idea to put all these factors in a reasonable mathematical formula. If you have
 any, [I'd love to hear](https://github.com/mhadidg/software-architecture-books/issues/new) what you've got in mind.
 
 ## Books
@@ -90,7 +105,7 @@ any, [I'd love to hear](https://github.com/mhadidg/software-architecture-books/i
 
 ### Domain-Driven Design
 
-| Title                                                              | ISBN | Rating                                               | Raters | Published At |
+| Title                                                              | ISBN | Rating                                               | Raters | Published |
 | ------------------------------------------------------------------ | ---- | ---------------------------------------------------- | ------ | ------------ |
 | Domain-Driven Design: Tackling Complexity in the Heart of Software | 9780321125217 | [4.16](https://www.goodreads.com/book/show/179133)   | 4445   | 2003         |
 | Domain-Driven Design Distilled                                     | 9780134434421 | [3.78](https://www.goodreads.com/book/show/28602719) | 816    | 2016         |
@@ -166,7 +181,7 @@ any, [I'd love to hear](https://github.com/mhadidg/software-architecture-books/i
 
 ### Agile
 
-| Title                                                           | ISBN | Rating                                               | Raters | Published At |
+| Title                                                           | ISBN | Rating                                               | Raters | Published |
 | --------------------------------------------------------------- | ---- | ---------------------------------------------------- | ------ | ------------ |
 | Clean Agile: Back to Basics                                     | 9780135781869 | [4.30](https://www.goodreads.com/book/show/45280021) | 633    | 2019         |
 | Agile Software Development: Principles, Patterns, and Practices | 9780135974445 | [4.25](https://www.goodreads.com/book/show/84985)    | 1201   | 2002         |
