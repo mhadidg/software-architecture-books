@@ -30,10 +30,12 @@ deciding whether or not to include a specific book.
 
 ## What is this?
 
-This is NOT recommendations. When I made this, I intended for a comprehensive list excluding low-profile books—see
-inclusion criteria below. There was a simple reason behind that: I'm not a subject-matter expert on all these topics.
-More importantly, I don't know your experience level nor your preferences. Some people prefer theoretical over practical
-books (I do). Others prefer verbose over concise books, or art-based over engineering-based books. Or and or and or.
+This is NOT a recommendation list. When I made this, I intended for a comprehensive list excluding low-profile books—see
+inclusion criteria below. There was a simple reason behind that: I'm not a subject-matter expert on all these topics. In
+fact, I not a subject-matter expert on even a single topic of these. More importantly, I don't know your experience
+level nor your preferences. Some people prefer theoretical over practical books (I do). Others prefer overview over
+comprehensive in-depth books. Some people even enjoy verbose over concise books or engaging over dry books or art-based
+over engineering-based books. Or and or and or.
 
 ## How did I make this?
 
@@ -45,8 +47,10 @@ planning to update it regularly to make it as comprehensive as possible.
 ## What should I read?
 
 Don't be overwhelmed by the number of books on each subject. Practically speaking, you are supposed to read a few books
-on each subject that you are interested in. Deciding what to read is your business. Alternatively, you may go with the
-Goodreads community preferences and start from the top of each list if you don't have the time to read reviews.
+on the subjects of your interest. Deciding what to read is your business. Personally, I start by reading a couple of
+reviews on Goodreads and jump into the book table of content. When in doubt, I proceed and read more reviews over the
+internet from blogs and the like. Alternatively, you may go with the Goodreads community preferences and start from the
+top of each list if you don't have the time to read reviews.
 
 ## Inclusion criteria
 
