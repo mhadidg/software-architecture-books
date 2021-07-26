@@ -208,6 +208,7 @@ any, [I'd love to hear](https://github.com/mhadidg/software-architecture-books/i
 
 | Title                                                                                                                                     | ISBN | Rating                                                | Raters | Published  |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------------------------------------------------- | ------ | ---------- |
+| The Pragmatic Programmer: From Journeyman to Master                                                                                       | 9780201616224 | [4.32](https://www.goodreads.com/book/show/4099)      | 17379  | 1999       |
 | The Mythical Man-Month: Essays on Software Engineering                                                                                    | 9780201835953 | [4.03](https://www.goodreads.com/book/show/13629)     | 12295  | 1995       |
 | The Unicorn Project                                                                                                                       | 9781942788768 | [4.13](https://www.goodreads.com/book/show/44333183)  | 4927   | 2019       |
 | Release It!: Design and Deploy Production-Ready Software                                                                                  | 9780978739218 | [4.26](https://www.goodreads.com/book/show/1069827)   | 2746   | 2007       |
