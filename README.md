@@ -115,6 +115,8 @@ any, [I'd love to hear](https://github.com/mhadidg/software-architecture-books/i
 | Domain-Driven Design Distilled                                     | 9780134434421 | [3.78](https://www.goodreads.com/book/show/28602719) | 816    | 2016         |
 | Implementing Domain-Driven Design                                  | 9780321834577 | [4.06](https://www.goodreads.com/book/show/15756865) | 934    | 2013         |
 | Domain-Driven Design Quickly                                       | 9781411609259 | [3.59](https://www.goodreads.com/book/show/2558105)  | 454    | 2007         |
+| Patterns, Principles, and Practices of Domain-Driven Design        | 9781118714706 | [4.36](https://www.goodreads.com/book/show/25531393) | 302    | 2015         |
+
 
 ### Microservices
 
