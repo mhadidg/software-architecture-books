@@ -238,6 +238,7 @@ any, [I'd love to hear](https://github.com/mhadidg/software-architecture-books/i
 | Composing Software                                                                                                                        | 9781661212568 | [3.88](https://www.goodreads.com/book/show/43429039)  | 85     | 2018       |
 | Software Security: Building Security in                                                                                                   | 9780321356703 | [3.63](https://www.goodreads.com/book/show/760789)    | 82     | 2006       |
 | 14 Habits of Highly Productive Developers                                                                                                 | 9781735266534 | [4.05](https://www.goodreads.com/book/show/54438214)  | 195    | 2020       |
+| Collaborative Software Design                                                                                                 | 9781735266534 | [4.05]https://www.manning.com/books/collaborative-software-design  | 300    | 2023       |
 ## Licence
 
 This work is licensed under
